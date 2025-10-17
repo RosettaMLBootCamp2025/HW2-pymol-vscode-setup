@@ -11,6 +11,7 @@ This assignment ensures you have PyMOL and VS Code installed and configured for 
 
 ## Prerequisites
 
+- HW1 completed (conda environment `bootcamp2025_HW1` set up)
 - Git installed and configured (from HW1)
 - A GitHub account
 - Basic command line familiarity
@@ -116,6 +117,7 @@ Now let's verify that everything is working correctly!
 
 3. **Run the verification script:**
    - Open the integrated terminal in VS Code: `Terminal > New Terminal`
+   - Activate your conda environment from HW1: `conda activate bootcamp2025_HW1`
    - Run: `python verify_setup.py`
    - The script will check your installations and create a `verification_result.txt` file
 
