@@ -9,6 +9,10 @@ This assignment ensures you have PyMOL and VS Code installed and configured for 
 3. Verify your installations by completing hands-on tasks
 4. Commit your work to GitHub
 
+## About Autograding
+
+**Note:** This assignment has automated tests that run when you push your code. You'll see a score out of 100 points. **These points are just for feedback** - they help you know if you've completed everything correctly. This is a bootcamp focused on learning, not grades!
+
 ## Prerequisites
 
 - HW1 completed
