@@ -32,12 +32,7 @@ If you have Homebrew installed:
 brew install pymol
 ```
 
-**Option 3: Open-Source PyMOL via Conda**
-```bash
-conda install -c conda-forge pymol-open-source
-```
-
-Verify installation by launching PyMOL from your applications or by running:
+Verify installation by launching PyMOL (GUI) from your applications or by running:
 ```bash
 pymol
 ```
@@ -152,7 +147,8 @@ Make sure your repository contains:
 
 **PyMOL won't launch:**
 - Make sure you've completed the installation fully
-- Try reinstalling using a different method (conda or homebrew)
+- Mac users: Try the Homebrew installation method
+- Make sure you're launching the GUI application, not just the Python package
 
 **Can't fetch PDB structures:**
 - Check your internet connection
