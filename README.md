@@ -11,10 +11,7 @@ This assignment ensures you have PyMOL and VS Code installed and configured for 
 
 ## Prerequisites
 
-- HW1 completed (conda environment `bootcamp2025_HW1` set up)
-- Git installed and configured (from HW1)
-- A GitHub account
-- Basic command line familiarity
+- HW1 completed
 
 ## Part 1: PyMOL Installation
 
